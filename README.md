@@ -2,6 +2,10 @@
 
 A complete Todo web application built with Django, featuring a modern UI with Tailwind CSS.
 
+# Live URL
+
+[Todo App](https://ostadbatch-10-module-2-production.up.railway.app)
+
 ## Features
 
 - ✅ Create, Read, Update, and Delete tasks
